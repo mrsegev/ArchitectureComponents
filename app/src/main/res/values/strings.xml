@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ArchitectureComponents</string>
+    <string name="lifecycleobserver_activity">LifecycleObserver Activity</string>
+    <string name="livedata_activity">LiveData Activity</string>
+</resources>
